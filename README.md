@@ -15,6 +15,6 @@ The data are not included in this repository.
 
 Since the region identifiers are not included in the public-use data, all analyses reported in the paper can be replicated with the following exceptions:
 
-- **School-level first-difference analysis:** the replication package reproduces the corresponding point estimates, but not the clustered standard errors.
-- **Difference-in-differences by subject analysis:** the replication package reproduces the corresponding point estimates, but not the wild cluster bootstrap p-values.
+- **School-level first-difference analysis:** the public replication package reproduces the corresponding point estimates, but not the clustered standard errors.
+- **Difference-in-differences by subject analysis:** the public replication package reproduces the corresponding point estimates, but not the wild cluster bootstrap p-values.
 - **Rearrangement tests:** these tests are not included in the public replication package.
