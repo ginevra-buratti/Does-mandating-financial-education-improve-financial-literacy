@@ -17,4 +17,4 @@ Since the region identifiers are not included in the public-use data, all analys
 
 - **School-level first-difference analysis:** the replication package reproduces the corresponding point estimates, but not the clustered standard errors.
 - **Difference-in-differences by subject analysis:** the replication package reproduces the corresponding point estimates, but not the wild cluster bootstrap p-values.
-- **Rearrangement test:** the test is not included in the public replication package.
+- **Rearrangement tests:** these tests are not included in the public replication package.
