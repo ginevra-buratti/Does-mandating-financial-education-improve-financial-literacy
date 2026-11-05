@@ -1,6 +1,6 @@
-# Replication package for "Does Mandating Financial Education Improve Financial Literacy? Lessons from a Natural Experiment"
+# Replication package for "Does mandating financial education improve financial literacy? Lessons from a natural experiment"
 
-This repository contains the public replication package for the paper *"Does Mandating Financial Education Improve Financial Literacy? Lessons from a Natural Experiment"* by A. Antonello, G. Buratti, and A. D'Ignazio.
+This repository contains the public replication package for the paper *"Does mandating financial education improve financial literacy? Lessons from a natural experiment"* by A. Antonello, G. Buratti, and A. D'Ignazio.
 
 ## Data
 
