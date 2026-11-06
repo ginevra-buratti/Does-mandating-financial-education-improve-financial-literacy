@@ -6,8 +6,13 @@ DATA/*
 TEMP/*
 !TEMP/.gitkeep
 
-# Stata logs
-*.log
+# Output files
+OUT/*
+!OUT/.gitkeep
+
+# Tables and figures
+TABFIG/*
+!TABFIG/.gitkeep
 
 # System files
 .DS_Store
