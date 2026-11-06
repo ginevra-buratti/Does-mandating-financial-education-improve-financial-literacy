@@ -1,0 +1,14 @@
+# Data
+DATA/*
+!DATA/.gitkeep
+
+# Temporary files
+TEMP/*
+!TEMP/.gitkeep
+
+# Stata logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
